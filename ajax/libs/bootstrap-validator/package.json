@@ -17,14 +17,5 @@
     "name": "Nguyen Huu Phuoc",
     "email": "phuoc@huuphuoc.me",
     "url": "https://twitter.com/nghuuphuoc"
-  },
-    "devDependencies": {
-        "grunt": "latest",
-        "grunt-contrib-concat": "latest",
-        "grunt-contrib-copy": "latest",
-        "grunt-contrib-cssmin": "latest",
-        "grunt-contrib-jshint": "latest",
-        "grunt-contrib-uglify": "latest",
-        "grunt-contrib-watch": "latest"
-    }
+  }
 }
